@@ -17,3 +17,7 @@ Duo Studio is a simple website developed using HTML, CSS, and JavaScript, enhanc
 ![Screenshot 2023-12-30 at 9 25 11 PM](https://github.com/ayushkr30/duo-studio-main/assets/114496295/b9d9e439-010f-402b-92af-437d2494817b)
 
  All pages enchaned with GSAP, Locomotive.js and ScrollTrigger
+
+
+## Domain--
+http://127.0.0.1:5500/index.html
